@@ -1,4 +1,8 @@
-## Welcome to a GitHub Page
+---
+layout: default
+title: Seán Kelleher
+---
+## Welcome to a GitHub <b>Page</b>
 
 You can use the [editor on GitHub](https://github.com/eZanmoto/eZanmoto.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
