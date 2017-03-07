@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Seán Kelleher"
 date: 2017-03-07
 ---
