@@ -1,3 +1,5 @@
 name: Seán Kelleher
-title: The blog
+title: [The blog]
+description: [hello, wórld!]
+show_downloads: false
 theme: jekyll-theme-minimal
