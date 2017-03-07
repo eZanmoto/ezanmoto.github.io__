@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Seán Kelleher
+name: Seán Kelleher
 ---
 ## Welcome to a GitHub <b>Page</b>
 
