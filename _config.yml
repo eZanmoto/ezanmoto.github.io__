@@ -1,4 +1,5 @@
 name: Seán Kelleher
 title: [The blag]
 description: [hello, wórld! this is a, thing that i di]
+show_downloads: false
 theme: jekyll-theme-minimal
